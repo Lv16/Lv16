@@ -19,7 +19,7 @@ Atualmente trabalho com tecnologia no **Grupo Ambipar**, atuando com suporte, au
 ## 🧰 Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,python,django,nestjs,postgres,git,github,vscode" />
 </div>
 
 <hr>
