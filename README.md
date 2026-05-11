@@ -16,11 +16,13 @@ Atualmente trabalho com tecnologia no **Grupo Ambipar**, atuando com suporte, au
 
 <hr>
 
-## 🧰 Tecnologias
+## 🧰 Tech
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,python,django,nestjs,postgres,git,github,vscode" />
-</div>
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React  
+**Mobile:** Flutter  
+**Back-end:** Node.js, NestJS, Python, Django  
+**Banco de dados:** PostgreSQL, SQLite  
+**Ferramentas:** Git, GitHub, VS Code
 
 <hr>
 
