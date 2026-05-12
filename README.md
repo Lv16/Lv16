@@ -50,6 +50,11 @@ Sistema para controle de produção e manutenção de equipamentos, utilizando N
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lv16&theme=github_dark" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lv16&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lv16&theme=github_dark" />
+</div>
+
 <hr>
 
 ## 🌐 Onde me encontrar
