@@ -1,3 +1,5 @@
+<img width="100%" src="./assets/github-banner.png" alt="Banner Lohran Victor - Full Stack Developer" />
+
 # 👋 Olá, eu sou Lohran Victor
 
 Desenvolvedor em formação, com foco em **Front-end**, interfaces modernas e soluções internas para empresas.
